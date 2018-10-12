@@ -4,5 +4,16 @@ title = "The Purple Book"
 
 theme = "hugo-theme-learn"
 
+[params]
+  editURL = ""
+  author = "Ryzor"
+  description = "Documentacion en espa√ol para los futuros aspirantes a developers en la comunidad"
+  showVisitedLinks = false
+  disableSearch = false
+  disableAssetsBusting = false
+  disableInlineCopyToClipBoard = false
+  disableShortcutsTitle = true
+  disableLanguageSwitchingButton = true
+
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
