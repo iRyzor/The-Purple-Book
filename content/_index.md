@@ -4,8 +4,8 @@ weight = 5
 +++
 
 # The Purple Book
-Ã±
-Documentacion en espanol para los futuros aspirantes a developers en la comunidad hispanohablante de Space Station 13.
+
+Documentación en español para los futuros aspirantes a developers en la comunidad hispanohablante de Space Station 13.
 
 ---
 
