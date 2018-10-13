@@ -1,13 +1,14 @@
 baseURL = "https://iryzor.github.io/"
 languageCode = "en-us"
 title = "The Purple Book"
+canonifyURLs = false
 
 theme = "hugo-theme-learn"
 
 [params]
   editURL = ""
   author = "Ryzor"
-  description = "Documentacion en espaÃol para los futuros aspirantes a developers en la comunidad"
+  description = "Documentacion en español para los futuros aspirantes a developers en la comunidad"
   showVisitedLinks = false
   disableSearch = false
   disableAssetsBusting = false
