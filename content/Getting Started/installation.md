@@ -1,6 +1,7 @@
 ---
 title: "Instalación"
 date: 2018-10-12T19:45:52-04:00
+weight: 1
 pre: "<b>2.1. </b>"
 ---
 
